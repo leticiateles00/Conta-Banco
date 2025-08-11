@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class contaTerminal {
+public class teste_1 {
      public static void main(String[] args) {
         try (var scanner = new Scanner(System.in)) {
             Double saldo = 567.8;
